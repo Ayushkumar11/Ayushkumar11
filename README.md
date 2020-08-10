@@ -2,7 +2,7 @@
 ### I'am a Developer,Learner and Team Builder
 
 - 🔭 I’m currently working on Machine learning
-- 🌱 I’m currently learning Data Science, Design, Flutter, Danjo
+- 🌱 I’m currently learning Data Science, Design, Flutter, Django
 - 👯 I’m looking to collaborate on Creating content
 - 🤔 I’m looking for help with Design
 - 💬 Ask me about Css,Python
